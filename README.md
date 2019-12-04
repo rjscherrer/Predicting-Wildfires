@@ -1,5 +1,13 @@
 # Predicting Wildfires
-Predicting wildfires based on climate data
+The project was created during the course "[Data Science Fundamentals](https://www.unisg.ch/en/studium/zulassungundanmeldung/zulzusatzausbildungen/dsf)" at the [University of St. Gallen](https://www.unisg.ch/en).<br/>
+The goal was to predict wildfires in California US based on climate data.<br/>
+The following people contributed to the project:
+- Luca Inauen
+- Jerom Kämpfer
+- Yehudah Gol
+- [Robin Scherrer](https://www.linkedin.com/in/robin-scherrer)
+
+The presentation of the project can be viewed here: https://rjscherrer.github.io/predicting-wildfires-presentation
 
 ## Instructions
 
